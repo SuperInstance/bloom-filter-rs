@@ -1,0 +1,10 @@
+[package]
+name = "bloom-filter-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Bloom filter implementations: classic, counting (deletion support), and scalable — pure Rust, no dependencies"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/bloom-filter-rs"
+keywords = ["bloom", "filter", "probabilistic", "data-structure", "set-membership"]
+categories = ["data-structures", "algorithms", "no-std"]
+authors = ["SuperInstance"]
